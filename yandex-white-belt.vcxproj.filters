@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\week1">
+      <UniqueIdentifier>{71cf4b89-93bc-4263-83d8-9a1d51497df6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\week2">
+      <UniqueIdentifier>{8b176589-b6fe-4757-810c-9c90cd612ce5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\week3">
+      <UniqueIdentifier>{c5a5bd29-7508-44e7-b832-77fa0d84d4f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\week4">
+      <UniqueIdentifier>{8e27bd46-4cdc-4760-9d6d-a2d5691c958c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\week5">
+      <UniqueIdentifier>{728d3b22-e3dd-47f5-85e7-a8f93ddf7ef2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\week1">
+      <UniqueIdentifier>{47f70274-15ba-44f5-99ab-e3f1db194abb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\week2">
+      <UniqueIdentifier>{c2f0afed-52f8-41c3-b5fa-c9cdca961b30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\week3">
+      <UniqueIdentifier>{a6e2035b-9562-42f5-b51b-cf24c6004ed5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\week4">
+      <UniqueIdentifier>{bc9eea31-7f9d-4679-b49c-9f610d060d24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\week5">
+      <UniqueIdentifier>{553ab0f3-53b7-40f1-834e-2b5e5793c61c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="week5\project_template.cpp">
+      <Filter>Source Files\week5</Filter>
+    </ClCompile>
+    <ClCompile Include="week4\ensure_equal.cpp">
+      <Filter>Source Files\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="week4\file_works.cpp">
+      <Filter>Source Files\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="week4\invertible_function.cpp">
+      <Filter>Source Files\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="week4\lecture_title.cpp">
+      <Filter>Source Files\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="week4\precision_output.cpp">
+      <Filter>Source Files\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="week4\rational.cpp">
+      <Filter>Source Files\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="week4\rational_calc.cpp">
+      <Filter>Source Files\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="week4\rational_interface.cpp">
+      <Filter>Source Files\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="week4\student_list.cpp">
+      <Filter>Source Files\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="week4\table_reading.cpp">
+      <Filter>Source Files\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="week4\time_server.cpp">
+      <Filter>Source Files\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="week3\incognizable.cpp">
+      <Filter>Source Files\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week3\persons1.cpp">
+      <Filter>Source Files\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week3\reversible_string.cpp">
+      <Filter>Source Files\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week3\sorted_strings.cpp">
+      <Filter>Source Files\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\anagrams.cpp">
+      <Filter>Source Files\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\avgTemp.cpp">
+      <Filter>Source Files\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\countries.cpp">
+      <Filter>Source Files\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\IsPalindrom.cpp">
+      <Filter>Source Files\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\queue.cpp">
+      <Filter>Source Files\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\Synonyms.cpp">
+      <Filter>Source Files\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\unique.cpp">
+      <Filter>Source Files\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\gcd.cpp">
+      <Filter>Source Files\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="week5\final.h">
+      <Filter>Header Files\week5</Filter>
+    </ClInclude>
+    <ClInclude Include="week4\ensure_equal.h">
+      <Filter>Header Files\week4</Filter>
+    </ClInclude>
+    <ClInclude Include="week4\file_works.h">
+      <Filter>Header Files\week4</Filter>
+    </ClInclude>
+    <ClInclude Include="week4\invertible_function.h">
+      <Filter>Header Files\week4</Filter>
+    </ClInclude>
+    <ClInclude Include="week4\lecture_title.h">
+      <Filter>Header Files\week4</Filter>
+    </ClInclude>
+    <ClInclude Include="week4\precision_output.h">
+      <Filter>Header Files\week4</Filter>
+    </ClInclude>
+    <ClInclude Include="week4\rational.h">
+      <Filter>Header Files\week4</Filter>
+    </ClInclude>
+    <ClInclude Include="week4\rational_interface.h">
+      <Filter>Header Files\week4</Filter>
+    </ClInclude>
+    <ClInclude Include="week4\student_list.h">
+      <Filter>Header Files\week4</Filter>
+    </ClInclude>
+    <ClInclude Include="week4\table_reading.h">
+      <Filter>Header Files\week4</Filter>
+    </ClInclude>
+    <ClInclude Include="week4\week4.h">
+      <Filter>Header Files\week4</Filter>
+    </ClInclude>
+    <ClInclude Include="week3\incognizable.h">
+      <Filter>Header Files\week3</Filter>
+    </ClInclude>
+    <ClInclude Include="week3\persons1.h">
+      <Filter>Header Files\week3</Filter>
+    </ClInclude>
+    <ClInclude Include="week3\reversible_string.h">
+      <Filter>Header Files\week3</Filter>
+    </ClInclude>
+    <ClInclude Include="week3\sorted_strings.h">
+      <Filter>Header Files\week3</Filter>
+    </ClInclude>
+    <ClInclude Include="week1\gcd.h">
+      <Filter>Header Files\week1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
