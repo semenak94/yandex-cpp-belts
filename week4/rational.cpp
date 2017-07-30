@@ -1,5 +1,4 @@
 #include "rational_interface.h"
-#include "rational.h"
 #include <iostream>
 #include <map>
 #include <set>

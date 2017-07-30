@@ -1,4 +1,3 @@
-#include "ensure_equal.h"
 #include <string>
 #include <exception>
 #include <iostream>

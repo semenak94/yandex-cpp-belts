@@ -1,4 +1,3 @@
-#include "table_reading.h"
 #include <fstream>
 #include <iostream>
 #include <iomanip>

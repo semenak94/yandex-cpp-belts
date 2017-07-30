@@ -4,12 +4,7 @@
 //#include "incognizable.h"
 //#include "week4\lecture_title.h"
 //#include "week4\invertible_function.h"
-//#include "week4\file_works.h"
-//#include "week4\precision_output.h"
-//#include "week4\table_reading.h"
-//#include "week4\student_list.h"
-#include "week4\rational.h"
-#include "week4\ensure_equal.h"
+#include "week4\week4.h"
 #include "week5\final.h"
 #include <iostream>
 #include <vector>
@@ -105,7 +100,7 @@ int main()
     //RationalTasks();
     //EnsureEqualTask();
     //RationalCalc();
-    DBTask();
+    //DBTask();
 /******************************************************/
     //map<int, string> m = { { 1, "odd" },
     //                       { 2, "even" },
@@ -244,7 +239,7 @@ void DailyPlanner()
         }
 
         if (action == "NEXT") {
-            int currentSize = tasks.size();
+            size_t currentSize = tasks.size();
             //tasks.resize(currentSize + daysInMonths[]);
         }
 

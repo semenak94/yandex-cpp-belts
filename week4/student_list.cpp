@@ -1,4 +1,3 @@
-#include "student_list.h"
 #include <iostream>
 #include <string>
 #include <vector>

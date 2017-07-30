@@ -178,15 +178,9 @@
     <ClInclude Include="week3\persons1.h" />
     <ClInclude Include="week3\reversible_string.h" />
     <ClInclude Include="week3\sorted_strings.h" />
-    <ClInclude Include="week4\ensure_equal.h" />
-    <ClInclude Include="week4\file_works.h" />
     <ClInclude Include="week4\invertible_function.h" />
     <ClInclude Include="week4\lecture_title.h" />
-    <ClInclude Include="week4\precision_output.h" />
-    <ClInclude Include="week4\rational.h" />
     <ClInclude Include="week4\rational_interface.h" />
-    <ClInclude Include="week4\student_list.h" />
-    <ClInclude Include="week4\table_reading.h" />
     <ClInclude Include="week4\week4.h" />
     <ClInclude Include="week5\final.h" />
   </ItemGroup>
