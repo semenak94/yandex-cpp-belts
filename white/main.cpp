@@ -100,7 +100,7 @@ int main()
     //RationalTasks();
     //EnsureEqualTask();
     //RationalCalc();
-    //DBTask();
+    DBTask();
 /******************************************************/
     //map<int, string> m = { { 1, "odd" },
     //                       { 2, "even" },
